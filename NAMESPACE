@@ -1,0 +1,3 @@
+useDynLib(COUSCOus)
+exportPattern("^[[:alpha:]]+")
+import("bio3d","matrixcalc","utils")

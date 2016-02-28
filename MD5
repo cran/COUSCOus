@@ -1,0 +1,17 @@
+9d859178e2da0036c7a37e6c6cd087b8 *DESCRIPTION
+83467b3dd14b1093ec8b0fbd5f030141 *NAMESPACE
+e032f7efde9755a16ede37bcc01ec88c *R/COUSCOus.R
+b87ec2f0cf15d20daedf954a5258fce1 *R/helper_precision.R
+0fc57b47a097d6402fa47a204a4e8f80 *R/helper_prediction.R
+c55d70ac61c6c70b74b4e67ca08a37d4 *R/helper_preprocess.R
+a903d57ea86a6734d17ac528913c4f36 *R/helper_shrinkage.R
+1652cc1d25db76e10a646a2cb765d7e7 *inst/examples/1oaiA0.fa
+ddcf71ef6c3ef5b55e9a4d7fdb0d2e52 *man/COUSCOus-internal.Rd
+ead3312208b2559bfd5cdccf017e41a5 *man/COUSCOus.Rd
+d14c3df549b301bb80d6caf1ccb5bb22 *src/aa2num.c
+e9b16a0eab395a18f689de6f1259f615 *src/calculate_pair_site_frequencies.c
+0db0659a516d4398256bc5b7e10ac5da *src/calculate_sequence_weights.c
+7fc25371ef6225458a8ed74b1edd55b6 *src/calculate_single_site_frequencies.c
+aa6df00a6912978180ab8354750bd936 *src/form_covarience_matrix.c
+1cc01dbbe27f2eff9a41b62b6d636689 *src/glassofast.f90
+710e5a462164809453e43dfe1af3ca0e *src/guess_rho_matrix.c
